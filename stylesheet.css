@@ -1,0 +1,21 @@
+body, html {
+    height: 105%;
+    margin: 0;
+    background-image: url("pexels-photo-733475.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h1 {
+    color: gray;
+    text-align: center;
+}
+
+p {
+    color: gray;
+    font-size: 150%;
+    text-align: center; 
+    margin-top: 5%;
+}
+
